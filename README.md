@@ -13,5 +13,3 @@ Ce projet un projet de formation visant à reproduire en js le célèbre jeux pu
     
   ```
  * Ensuite ouvrir le dossier et lancer le fichier index.html dans votre navigateur favori.
-
-![Screenshot](Image-projet.png)
