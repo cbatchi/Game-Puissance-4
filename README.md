@@ -1,3 +1,5 @@
+![Image-projet](https://user-images.githubusercontent.com/56683920/85201249-2fb43d00-b2fe-11ea-9439-b6419d38ecf1.png)
+
 # Jeux puissance 4
 
 Ce projet un projet de formation visant à reproduire en js le célèbre jeux puissance 4 .
