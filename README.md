@@ -9,7 +9,7 @@ Ce projet un projet de formation visant à reproduire en js le célèbre jeux pu
     Cette manipulation est à faire si vous êtes sur un os linux :)
     
   ``` 
-    sudo apt update && apt install git && git clone git@github.com:cbatchi/Game-Puissance-4.git 
+    sudo apt update && apt install git && git clone git@github.com:cbatchi/nom-du-repo.git 
     
   ```
  * Ensuite ouvrir le dossier et lancer le fichier index.html dans votre navigateur favori.
